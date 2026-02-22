@@ -1,4 +1,3 @@
-#Ransomware com python
 
 Projeto simples de ransomware feito em Python, desenvolvido com o objetivo de estudar e compreender como funciona a criptografia de arquivos.
 

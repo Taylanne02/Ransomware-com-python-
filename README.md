@@ -5,3 +5,5 @@ O código foi feito a partir do vídeo educacional do Alestan Alves (Ale) no You
 https://youtu.be/YgrjjIT74qU?si=TewJDDk_98E8Pmk9
 
 Usei o conteúdo como base de aprendizado, dando todos os créditos ao criador original.
+
+Atualização 1- Foi adicionada uma linha para permanecer a mesma chave, só criando outra quando não tiver nenhuma. 
